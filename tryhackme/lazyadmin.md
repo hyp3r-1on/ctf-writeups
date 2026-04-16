@@ -19,7 +19,7 @@ Results:
 
 Default Apache page observed.
 
-[[IMAGE]](https://github.com/hyp3r-1on/ctf-writeups/blob/6f34425bb0c36ec31bb3eb3a2eb626886e4fa830/tryhackme/assets/Apache2%20Defualt.png)
+![image alt](tryhackme/assets/Apache2 Defualt.png)
 
 ## 📂 Directory Enumeration
 ### Initial Scan
