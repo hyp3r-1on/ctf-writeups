@@ -27,6 +27,6 @@ Aspiring Penetration Tester documenting my learning journey through CTF challeng
 ---
 
 ## 🛠️ Skills Demonstrated
-
+- Web Exploitation
 
 ---
