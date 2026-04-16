@@ -1,4 +1,4 @@
-# 🛡️ CTF Writeups – hyp3r1on
+# 🛡️ CTF Writeups – hyp3r-1on
 
 ## 👨‍💻 About Me
 Aspiring Penetration Tester documenting my learning journey through CTF challenges.
