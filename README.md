@@ -4,7 +4,7 @@
 Aspiring Penetration Tester documenting my learning journey through CTF challenges.
 
 - 🔍 Focus: Web Exploitation & Privilege Escalation
-- 🧠 Platforms: TryHackMe, Hack The Box
+- 🧠 Platforms: TryHackMe, HackTheBox
 - 🛠️ Tools: Nmap, Gobuster, Dirsearch, Metasploit, Searchsploit, Netcat, John the Ripper, Hydra
 
 ---
