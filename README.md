@@ -5,11 +5,12 @@ Aspiring Penetration Tester documenting my learning journey through CTF challeng
 
 - 🔍 Focus: Web Exploitation & Privilege Escalation
 - 🧠 Platforms: TryHackMe, Hack The Box
+- 🛠️ Tools: Nmap, Gobuster, Dirsearch, Metasploit, Searchsploit, Netcat, John the Ripper, Hydra
 
 ---
 
 ## 📊 Stats
-- 🧩 Rooms Completed: 
+- 🧩 Rooms Completed: 2
 - 🔐 Categories:
   - Web
   - Linux PrivEsc
@@ -28,7 +29,11 @@ Aspiring Penetration Tester documenting my learning journey through CTF challeng
 
 ---
 
-## 🛠️ Skills Demonstrated
-- Web Exploitation
-
+## 🧠 Skills Demonstrated
+- Information Gathering
+- Vulnerability Assessment
+- Exploitation & Post-Exploitation
+- Privilege Escalation
+- Cryptography
+  
 ---
