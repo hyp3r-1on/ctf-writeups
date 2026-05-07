@@ -24,6 +24,7 @@ Aspiring Penetration Tester documenting my learning journey through CTF challeng
 - [LazyAdmin](https://github.com/hyp3r-1on/ctf-writeups/blob/f92f963f730eb9269c1832597634d77be4d7f565/tryhackme/Writeup%20-%20LazyAdmin.pdf)
 - [Chocolate Factory](https://github.com/hyp3r-1on/ctf-writeups/blob/main/tryhackme/Writeup%20-%20Chocolate%20Factory.pdf)
 - [Pickle Rick](https://github.com/hyp3r-1on/ctf-writeups/blob/04334e7995dcaf0c312f057299d67a441c03d94e/tryhackme/Writeup%20-%20Pickle%20Rick.pdf)
+- [Cyborg](https://github.com/hyp3r-1on/ctf-writeups/blob/62faafbdb6197d66e8638279d7b81a130d4c8291/tryhackme/Writeup%20-%20Cyborg.pdf)
 
 ### 🔹 Hack The Box
 
