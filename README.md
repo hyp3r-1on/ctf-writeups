@@ -10,7 +10,7 @@ Aspiring Penetration Tester documenting my learning journey through CTF challeng
 ---
 
 ## 📊 Stats
-- 🧩 Rooms Completed: 3
+- 🧩 Rooms Completed: 4
 - 🔐 Categories:
   - Web
   - Linux PrivEsc
