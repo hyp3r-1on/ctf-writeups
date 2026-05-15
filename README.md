@@ -10,7 +10,7 @@ Aspiring Penetration Tester documenting my learning journey through CTF challeng
 ---
 
 ## 📊 Stats
-- 🧩 Rooms Completed: 6
+- 🧩 Rooms Completed: 7
 - 🔐 Categories:
   - Web
   - Linux PrivEsc
@@ -27,6 +27,7 @@ Aspiring Penetration Tester documenting my learning journey through CTF challeng
 - [Cyborg](https://github.com/hyp3r-1on/ctf-writeups/blob/62faafbdb6197d66e8638279d7b81a130d4c8291/tryhackme/Writeup%20-%20Cyborg.pdf)
 - [VulnNet Internal](https://github.com/hyp3r-1on/ctf-writeups/blob/e44607d0a3c20e706ac57cfec53ae2295af9eeda/tryhackme/Writeup%20-%20VulnNet%20Internal.pdf)
 - [Hijack](https://github.com/hyp3r-1on/ctf-writeups/blob/3d5f43859c0598ccf4a08f03c5cd2f231882d6e4/tryhackme/Writeup%20-%20Hijack.pdf)
+- [Bounty Hacker](https://github.com/hyp3r-1on/ctf-writeups/blob/354a35e396e20a379f3a276e3e6d6cf28bd2a24f/tryhackme/Writeup%20-%20Bounty%20Hacker.pdf)
 
 ### 🔹 Hack The Box
 
