@@ -10,7 +10,7 @@ Aspiring Penetration Tester documenting my learning journey through CTF challeng
 ---
 
 ## 📊 Stats
-- 🧩 Rooms Completed: 8
+- 🧩 Rooms Completed: 9
 - 🔐 Categories:
   - Web
   - Linux PrivEsc
@@ -29,6 +29,7 @@ Aspiring Penetration Tester documenting my learning journey through CTF challeng
 - [Hijack](https://github.com/hyp3r-1on/ctf-writeups/blob/3d5f43859c0598ccf4a08f03c5cd2f231882d6e4/tryhackme/Writeup%20-%20Hijack.pdf)
 - [Bounty Hacker](https://github.com/hyp3r-1on/ctf-writeups/blob/354a35e396e20a379f3a276e3e6d6cf28bd2a24f/tryhackme/Writeup%20-%20Bounty%20Hacker.pdf)
 - [U.A. High School](https://github.com/hyp3r-1on/ctf-writeups/blob/0cac6fa6781d37f028ae8c487aaeba684ce8d5d3/tryhackme/Writeup%20-%20U.A.%20High%20School.pdf)
+- [Smag Grotto](https://github.com/hyp3r-1on/ctf-writeups/blob/8176435f73d54483c0278e153643e6bd4b5dcb21/tryhackme/Writeup%20-%20Smag%20Grotto.pdf)
 
 ### 🔹 Hack The Box
 
